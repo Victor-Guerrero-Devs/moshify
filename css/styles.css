@@ -165,6 +165,10 @@ a {
   fill: var(--color-primary);
 }
 
+.icon--white {
+  fill: #fff;
+}
+
 .icon-container {
   background: #f3f9fa;
   width: 64px;
